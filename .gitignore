@@ -1,0 +1,5 @@
+venv/            #the virtual environment folder
+__pycache__/
+.env             #Secret keys of API not to be pushed
+*.egg-info      #packeged build 
+.ipynb_checkpoints  #it never pushed
