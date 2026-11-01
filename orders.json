@@ -1,0 +1,12 @@
+[
+    {
+        "order_id": "ORD001",
+        "customer_name": "Tester",
+        "product": "HP-Laptop",
+        "quantity": 1,
+        "unit_price": 56000.0,
+        "total_amount": 56000.0,
+        "status": "Shipped",
+        "order_date": "2026-11-01 23:37:51"
+    }
+]
